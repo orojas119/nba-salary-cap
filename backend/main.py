@@ -12,10 +12,14 @@ from engine.tax_engine import apron_status, luxury_tax_bill, team_financials
 
 app = FastAPI(title="NBA Salary Cap Engine", version="0.2.0")
 
-# Allow a frontend (any origin) to call the API.
+# Allow the local dev server and the Vercel frontend (incl. preview deploys).
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "http://localhost:5173",
+        "https://nba-salary-cap.vercel.app",
+    ],
+    allow_origin_regex=r"https://.*\.vercel\.app",
     allow_methods=["*"],
     allow_headers=["*"],
 )
