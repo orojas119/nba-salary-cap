@@ -32,7 +32,7 @@ jobs:
       - name: Refresh deployed cache
         # The Render URL is not live until deployment exists; don't fail the run.
         continue-on-error: true
-        run: curl -fsS -X POST https://nba-salary-cap-api.onrender.com/refresh
+        run: curl -fsS -X POST https://nba-salary-cap.onrender.com/refresh
 
       - name: Print league summary
         working-directory: backend

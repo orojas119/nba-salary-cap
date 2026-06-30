@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: nba-salary-cap-api
+    name: nba-salary-cap
     runtime: python
     rootDir: backend
     buildCommand: pip install -r requirements.txt
