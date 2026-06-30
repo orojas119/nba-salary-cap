@@ -1,0 +1,6 @@
+# Dependencies for the data importer (scripts/import_data.py) only.
+# Kept separate from the web service's requirements.txt to keep the
+# deployed app lean — pandas/lxml are not needed at runtime.
+requests==2.31.0
+pandas==2.2.0
+lxml==5.1.0

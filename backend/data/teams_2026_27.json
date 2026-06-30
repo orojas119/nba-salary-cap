@@ -4,112 +4,107 @@
     "team_name": "Atlanta Hawks",
     "conference": "East",
     "repeater": false,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
-      {
-        "name": "Trae Young",
-        "salary_2026_27": 46000000,
-        "contract_type": "Max",
-        "player_option": true,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 49000000
-      },
       {
         "name": "Jalen Johnson",
         "salary_2026_27": 30000000,
-        "contract_type": "Max",
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 32000000,
-        "salary_2028_29": 34000000
+        "salary_2027_28": 30000000,
+        "salary_2028_29": 30000000
       },
       {
         "name": "Dyson Daniels",
-        "salary_2026_27": 8800000,
-        "contract_type": "Rookie Scale",
+        "salary_2026_27": 25000000,
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 9300000
+        "salary_2027_28": 25000000,
+        "salary_2028_29": 25000000
       },
       {
-        "name": "Zaccharie Risacher",
-        "salary_2026_27": 12700000,
-        "contract_type": "Rookie Scale",
+        "name": "C.J. McCollum",
+        "salary_2026_27": 21000000,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 13300000,
-        "salary_2028_29": 14000000
+        "guaranteed": true
       },
       {
         "name": "Onyeka Okongwu",
-        "salary_2026_27": 16000000,
-        "contract_type": "Bird",
+        "salary_2026_27": 16100000,
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 17000000,
-        "salary_2028_29": 18000000
+        "salary_2027_28": 16880000
       },
       {
         "name": "Nickeil Alexander-Walker",
-        "salary_2026_27": 16000000,
-        "contract_type": "MLE",
+        "salary_2026_27": 14403710,
+        "contract_type": "Sign and Trade",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 17000000
+        "salary_2027_28": 15161800,
+        "salary_2028_29": 15919890
       },
       {
-        "name": "Luke Kennard",
-        "salary_2026_27": 11000000,
-        "contract_type": "MLE",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Vit Krejci",
-        "salary_2026_27": 5000000,
-        "contract_type": "Bird",
+        "name": "Corey Kispert",
+        "salary_2026_27": 13975000,
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 5300000
+        "salary_2027_28": 13025000,
+        "salary_2028_29": 13025000
       },
       {
-        "name": "Mouhamed Gueye",
-        "salary_2026_27": 2300000,
+        "name": "Zaccharie Risacher",
+        "salary_2026_27": 13826040,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 2400000
+        "salary_2027_28": 17434637
+      },
+      {
+        "name": "Buddy Hield",
+        "salary_2026_27": 9658536,
+        "contract_type": "Sign and Trade",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 10097560
+      },
+      {
+        "name": "Devin Carter",
+        "salary_2026_27": 5158080,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 7370897
       },
       {
         "name": "Asa Newell",
-        "salary_2026_27": 4000000,
+        "salary_2026_27": 3399480,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 4200000
+        "salary_2027_28": 3560880,
+        "salary_2028_29": 6042814
       },
       {
-        "name": "Kobe Bufkin",
-        "salary_2026_27": 5000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Caris LeVert",
-        "salary_2026_27": 6000000,
-        "contract_type": "Veteran Minimum",
+        "name": "Mouhamed Gueye",
+        "salary_2026_27": 2406205,
+        "contract_type": "RK-2ND",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
@@ -123,112 +118,97 @@
     "team_name": "Brooklyn Nets",
     "conference": "East",
     "repeater": false,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
-        "name": "Cam Thomas",
-        "salary_2026_27": 24000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 25500000
-      },
-      {
-        "name": "Nic Claxton",
-        "salary_2026_27": 27000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 28500000,
-        "salary_2028_29": 30000000
-      },
-      {
         "name": "Michael Porter Jr.",
-        "salary_2026_27": 38300000,
-        "contract_type": "Max",
+        "salary_2026_27": 40806150,
+        "contract_type": "DRK-EXT",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
+        "name": "Nicolas Claxton",
+        "salary_2026_27": 23320738,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 21099720
+      },
+      {
         "name": "Terance Mann",
-        "salary_2026_27": 14000000,
-        "contract_type": "Bird",
+        "salary_2026_27": 15500000,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 15000000
-      },
-      {
-        "name": "Ziaire Williams",
-        "salary_2026_27": 6000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 6400000
-      },
-      {
-        "name": "Noah Clowney",
-        "salary_2026_27": 4000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 4200000
-      },
-      {
-        "name": "Dariq Whitehead",
-        "salary_2026_27": 3500000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 3700000
+        "salary_2027_28": 16000000
       },
       {
         "name": "Egor Demin",
-        "salary_2026_27": 8000000,
+        "salary_2026_27": 7233720,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 8400000,
-        "salary_2028_29": 8800000
+        "salary_2027_28": 7578240,
+        "salary_2028_29": 9639522
+      },
+      {
+        "name": "Noah Clowney",
+        "salary_2026_27": 5414034,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
       },
       {
         "name": "Nolan Traore",
-        "salary_2026_27": 4000000,
+        "salary_2026_27": 4002000,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 4200000
-      },
-      {
-        "name": "Danny Wolf",
-        "salary_2026_27": 3500000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 3700000
+        "salary_2027_28": 4193040,
+        "salary_2028_29": 6457282
       },
       {
         "name": "Drake Powell",
-        "salary_2026_27": 3000000,
+        "salary_2026_27": 3540600,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 3200000
+        "salary_2027_28": 3709320,
+        "salary_2028_29": 6101832
       },
       {
-        "name": "Day'Ron Sharpe",
-        "salary_2026_27": 6000000,
-        "contract_type": "Bird",
+        "name": "Ben Saraf",
+        "salary_2026_27": 3028560,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 3172920,
+        "salary_2028_29": 5720776
+      },
+      {
+        "name": "Danny Wolf",
+        "salary_2026_27": 2941440,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 3081840,
+        "salary_2028_29": 5559640
+      },
+      {
+        "name": "Malachi Smith",
+        "salary_2026_27": 2150917,
+        "contract_type": "Veteran Minimum",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
@@ -243,119 +223,104 @@
     "conference": "East",
     "repeater": true,
     "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
         "name": "Jayson Tatum",
-        "salary_2026_27": 57000000,
-        "contract_type": "Designated Veteran Extension",
+        "salary_2026_27": 58456566,
+        "contract_type": "DVET-EXT",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 61000000,
-        "salary_2028_29": 65000000
+        "salary_2027_28": 62786682,
+        "salary_2028_29": 67116798
       },
       {
         "name": "Jaylen Brown",
-        "salary_2026_27": 53000000,
-        "contract_type": "Designated Veteran Extension",
+        "salary_2026_27": 57078728,
+        "contract_type": "DVET-EXT",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 57000000,
-        "salary_2028_29": 61000000
-      },
-      {
-        "name": "Jrue Holiday",
-        "salary_2026_27": 34000000,
-        "contract_type": "Max",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 37000000
+        "salary_2027_28": 61015192,
+        "salary_2028_29": 64951656
       },
       {
         "name": "Derrick White",
-        "salary_2026_27": 30000000,
-        "contract_type": "Max",
+        "salary_2026_27": 30348000,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 32000000,
-        "salary_2028_29": 34000000
+        "salary_2027_28": 32596000,
+        "salary_2028_29": 34844000
       },
       {
-        "name": "Kristaps Porzingis",
-        "salary_2026_27": 30700000,
-        "contract_type": "Max",
+        "name": "Sam Hauser",
+        "salary_2026_27": 10848215,
+        "contract_type": "Veteran",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 11651785,
+        "salary_2028_29": 12455356
+      },
+      {
+        "name": "Payton Pritchard",
+        "salary_2026_27": 7767857,
+        "contract_type": "Rookie Extension",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 8303571
+      },
+      {
+        "name": "Hugo Gonzalez",
+        "salary_2026_27": 2923560,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 3062640,
+        "salary_2028_29": 5528065
+      },
+      {
+        "name": "Dalano Banton",
+        "salary_2026_27": 2801346,
+        "contract_type": "Veteran Minimum",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Sam Hauser",
-        "salary_2026_27": 10000000,
-        "contract_type": "Bird",
+        "name": "Luka Garza",
+        "salary_2026_27": 2801346,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Baylor Scheierman",
+        "salary_2026_27": 2744040,
+        "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 10700000,
-        "salary_2028_29": 11500000
+        "salary_2027_28": 4952993
       },
       {
-        "name": "Payton Pritchard",
-        "salary_2026_27": 7000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 7500000
-      },
-      {
-        "name": "Luke Kornet",
-        "salary_2026_27": 7000000,
-        "contract_type": "MLE",
+        "name": "Neemias Queta",
+        "salary_2026_27": 2667944,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
         "name": "Jordan Walsh",
-        "salary_2026_27": 2200000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 2300000
-      },
-      {
-        "name": "Baylor Scheierman",
-        "salary_2026_27": 2400000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 2500000
-      },
-      {
-        "name": "Neemias Queta",
-        "salary_2026_27": 2500000,
-        "contract_type": "Veteran",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Xavier Tillman",
-        "salary_2026_27": 2400000,
-        "contract_type": "Veteran",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "JD Davison",
-        "salary_2026_27": 2200000,
-        "contract_type": "Veteran",
+        "salary_2026_27": 2406205,
+        "contract_type": "RK-2ND",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
@@ -376,117 +341,124 @@
     "team_name": "Charlotte Hornets",
     "conference": "East",
     "repeater": false,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
         "name": "LaMelo Ball",
-        "salary_2026_27": 38300000,
-        "contract_type": "Designated Rookie Max",
+        "salary_2026_27": 40770520,
+        "contract_type": "DRK-EXT",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 41200000,
-        "salary_2028_29": 44100000
-      },
-      {
-        "name": "Brandon Miller",
-        "salary_2026_27": 13000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 14000000,
-        "salary_2028_29": 15000000
+        "salary_2027_28": 43582280,
+        "salary_2028_29": 46394040
       },
       {
         "name": "Miles Bridges",
-        "salary_2026_27": 25000000,
-        "contract_type": "Bird",
+        "salary_2026_27": 22826087,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 26500000
+        "guaranteed": true
       },
       {
-        "name": "Mark Williams",
-        "salary_2026_27": 13000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 14000000
-      },
-      {
-        "name": "Grant Williams",
-        "salary_2026_27": 13200000,
-        "contract_type": "MLE",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 14100000
-      },
-      {
-        "name": "Josh Green",
-        "salary_2026_27": 12000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 12800000
-      },
-      {
-        "name": "Tre Mann",
-        "salary_2026_27": 8000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 8500000
-      },
-      {
-        "name": "Kon Knueppel",
-        "salary_2026_27": 9000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 9500000,
-        "salary_2028_29": 10000000
-      },
-      {
-        "name": "Tidjane Salaun",
-        "salary_2026_27": 7000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 7400000
-      },
-      {
-        "name": "Nick Smith Jr.",
-        "salary_2026_27": 4000000,
+        "name": "Brandon Miller",
+        "salary_2026_27": 15104626,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Moussa Diabate",
-        "salary_2026_27": 2300000,
-        "contract_type": "Veteran",
+        "name": "Josh Green",
+        "salary_2026_27": 14679012,
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 2400000
+        "guaranteed": true
       },
       {
-        "name": "KJ Simpson",
-        "salary_2026_27": 2000000,
+        "name": "Grant Williams",
+        "salary_2026_27": 14265750,
+        "contract_type": "Sign and Trade",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Kon Knueppel",
+        "salary_2026_27": 10516560,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 2100000
+        "salary_2027_28": 11017560,
+        "salary_2028_29": 13937214
+      },
+      {
+        "name": "Tidjane Salaun",
+        "salary_2026_27": 8237880,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 10445633
+      },
+      {
+        "name": "Tre Mann",
+        "salary_2026_27": 8000000,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 8000000
+      },
+      {
+        "name": "Pat Connaughton",
+        "salary_2026_27": 3815861,
+        "contract_type": "Veteran Minimum",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Liam McNeeley",
+        "salary_2026_27": 2902080,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 3040320,
+        "salary_2028_29": 5487778
+      },
+      {
+        "name": "Moussa Diabate",
+        "salary_2026_27": 2461462,
+        "contract_type": "Veteran Minimum",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Sion James",
+        "salary_2026_27": 2411090,
+        "contract_type": "RK-2ND",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2525901,
+        "salary_2028_29": 2735698
+      },
+      {
+        "name": "Ryan Kalkbrenner",
+        "salary_2026_27": 2411090,
+        "contract_type": "RK-2ND",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2525901,
+        "salary_2028_29": 2735698
       }
     ],
     "dead_cap": [],
@@ -497,113 +469,107 @@
     "team_name": "Chicago Bulls",
     "conference": "East",
     "repeater": false,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
-        "name": "Nikola Vucevic",
-        "salary_2026_27": 21500000,
-        "contract_type": "Bird",
+        "name": "Josh Giddey",
+        "salary_2026_27": 25000000,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Coby White",
-        "salary_2026_27": 13000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 25000000,
+        "salary_2028_29": 25000000
       },
       {
         "name": "Patrick Williams",
         "salary_2026_27": 18000000,
-        "contract_type": "Bird",
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 19000000,
-        "salary_2028_29": 20000000
+        "salary_2027_28": 18000000,
+        "salary_2028_29": 18000000
       },
       {
-        "name": "Josh Giddey",
-        "salary_2026_27": 25000000,
-        "contract_type": "Bird",
+        "name": "Isaac Okoro",
+        "salary_2026_27": 11814814,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 27000000,
-        "salary_2028_29": 29000000
-      },
-      {
-        "name": "Matas Buzelis",
-        "salary_2026_27": 7500000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 7900000,
-        "salary_2028_29": 8300000
-      },
-      {
-        "name": "Ayo Dosunmu",
-        "salary_2026_27": 12000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 12800000
+        "guaranteed": true
       },
       {
         "name": "Jalen Smith",
-        "salary_2026_27": 9000000,
-        "contract_type": "MLE",
+        "salary_2026_27": 9428571,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 9500000
+        "guaranteed": true
       },
       {
         "name": "Tre Jones",
-        "salary_2026_27": 9500000,
-        "contract_type": "Bird",
+        "salary_2026_27": 8000000,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 8000000
       },
       {
-        "name": "Kevin Huerter",
-        "salary_2026_27": 18000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Dalen Terry",
-        "salary_2026_27": 6300000,
+        "name": "Rob Dillingham",
+        "salary_2026_27": 6889320,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 8763216
+      },
+      {
+        "name": "Matas Buzelis",
+        "salary_2026_27": 5715360,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 7584283
       },
       {
         "name": "Noa Essengue",
-        "salary_2026_27": 5500000,
+        "salary_2026_27": 5701200,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 5800000
+        "salary_2027_28": 5972760,
+        "salary_2028_29": 8230464
       },
       {
-        "name": "Julian Phillips",
-        "salary_2026_27": 2200000,
-        "contract_type": "Rookie Scale",
+        "name": "Mouhamadou Gueye",
+        "salary_2026_27": 2411090,
+        "contract_type": "Veteran Minimum",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Leonard Miller",
+        "salary_2026_27": 2406205,
+        "contract_type": "RK-2ND",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Kam Jones",
+        "salary_2026_27": 2150917,
+        "contract_type": "RK-2ND",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 2300000
+        "salary_2027_28": 2525901,
+        "salary_2028_29": 2735698
       }
     ],
     "dead_cap": [],
@@ -615,121 +581,98 @@
     "conference": "East",
     "repeater": true,
     "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
         "name": "Donovan Mitchell",
-        "salary_2026_27": 46400000,
-        "contract_type": "Max",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 50100000,
-        "salary_2028_29": 53800000
-      },
-      {
-        "name": "Darius Garland",
-        "salary_2026_27": 39400000,
-        "contract_type": "Max",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 42500000,
-        "salary_2028_29": 45600000
-      },
-      {
-        "name": "Evan Mobley",
-        "salary_2026_27": 46400000,
-        "contract_type": "Designated Rookie Max",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 50100000,
-        "salary_2028_29": 53800000
-      },
-      {
-        "name": "Jarrett Allen",
-        "salary_2026_27": 30000000,
-        "contract_type": "Max",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 32000000
-      },
-      {
-        "name": "De'Andre Hunter",
-        "salary_2026_27": 23300000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 24700000
-      },
-      {
-        "name": "Max Strus",
-        "salary_2026_27": 16000000,
-        "contract_type": "MLE",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 17000000
-      },
-      {
-        "name": "Sam Merrill",
-        "salary_2026_27": 8000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 8500000
-      },
-      {
-        "name": "Dean Wade",
-        "salary_2026_27": 6600000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Craig Porter Jr.",
-        "salary_2026_27": 2700000,
+        "salary_2026_27": 50105628,
         "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 53817156
+      },
+      {
+        "name": "Evan Mobley",
+        "salary_2026_27": 50105628,
+        "contract_type": "DRK-EXT",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 53817156,
+        "salary_2028_29": 57528684
+      },
+      {
+        "name": "Jarrett Allen",
+        "salary_2026_27": 28000000,
+        "contract_type": "Veteran",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 30240000,
+        "salary_2028_29": 32480000
+      },
+      {
+        "name": "Max Strus",
+        "salary_2026_27": 16660836,
+        "contract_type": "Sign and Trade",
+        "player_option": false,
+        "team_option": false,
         "guaranteed": true
       },
       {
+        "name": "Dennis Schr\u00f6der",
+        "salary_2026_27": 14809200,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 15514400
+      },
+      {
+        "name": "Sam Merrill",
+        "salary_2026_27": 9160715,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 9839285,
+        "salary_2028_29": 10517856
+      },
+      {
         "name": "Jaylon Tyson",
-        "salary_2026_27": 3500000,
+        "salary_2026_27": 3658560,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 3700000
+        "salary_2027_28": 5641500
       },
       {
-        "name": "Lonzo Ball",
-        "salary_2026_27": 10000000,
-        "contract_type": "Bird",
-        "player_option": true,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Tristan Thompson",
-        "salary_2026_27": 3600000,
+        "name": "Nae'qwan Tomlin",
+        "salary_2026_27": 2411090,
         "contract_type": "Veteran Minimum",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Nae'Qwan Tomlin",
-        "salary_2026_27": 2000000,
-        "contract_type": "Veteran",
+        "name": "Craig Porter Jr.",
+        "salary_2026_27": 2406205,
+        "contract_type": "Veteran Minimum",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
+      },
+      {
+        "name": "Tyrese Proctor",
+        "salary_2026_27": 2150917,
+        "contract_type": "RK-2ND",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2525901,
+        "salary_2028_29": 2735698
       }
     ],
     "dead_cap": [],
@@ -740,112 +683,103 @@
     "team_name": "Dallas Mavericks",
     "conference": "West",
     "repeater": false,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
-        "name": "Anthony Davis",
-        "salary_2026_27": 54100000,
-        "contract_type": "Max",
-        "player_option": true,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 58500000
-      },
-      {
         "name": "Kyrie Irving",
-        "salary_2026_27": 41000000,
-        "contract_type": "Max",
-        "player_option": true,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 43000000
-      },
-      {
-        "name": "Klay Thompson",
-        "salary_2026_27": 16000000,
-        "contract_type": "MLE",
+        "salary_2026_27": 39491282,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 17000000
+        "salary_2027_28": 42416562
       },
       {
         "name": "PJ Washington",
-        "salary_2026_27": 14000000,
-        "contract_type": "Bird",
+        "salary_2026_27": 19813044,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 15000000,
-        "salary_2028_29": 16000000
+        "salary_2027_28": 21398087,
+        "salary_2028_29": 22983132
+      },
+      {
+        "name": "Klay Thompson",
+        "salary_2026_27": 17460317,
+        "contract_type": "Sign and Trade",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
       },
       {
         "name": "Daniel Gafford",
-        "salary_2026_27": 14300000,
-        "contract_type": "Bird",
+        "salary_2026_27": 17263584,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 15300000
-      },
-      {
-        "name": "Dereck Lively II",
-        "salary_2026_27": 6000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 6400000
+        "salary_2027_28": 18126763,
+        "salary_2028_29": 18989942
       },
       {
         "name": "Cooper Flagg",
-        "salary_2026_27": 13800000,
+        "salary_2026_27": 14517480,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 14500000,
-        "salary_2028_29": 15200000
-      },
-      {
-        "name": "Naji Marshall",
-        "salary_2026_27": 9000000,
-        "contract_type": "MLE",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 9500000
-      },
-      {
-        "name": "Max Christie",
-        "salary_2026_27": 9000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 9500000,
-        "salary_2028_29": 10000000
-      },
-      {
-        "name": "D'Angelo Russell",
-        "salary_2026_27": 13000000,
-        "contract_type": "Veteran",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Dwight Powell",
-        "salary_2026_27": 4000000,
-        "contract_type": "Veteran",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
+        "salary_2027_28": 15208680,
+        "salary_2028_29": 19178146
       },
       {
         "name": "Caleb Martin",
-        "salary_2026_27": 8800000,
-        "contract_type": "Bird",
+        "salary_2026_27": 10001494,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 9371351
+      },
+      {
+        "name": "Naji Marshall",
+        "salary_2026_27": 9428571,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Max Christie",
+        "salary_2026_27": 8285714,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 8857143
+      },
+      {
+        "name": "Dereck Lively II",
+        "salary_2026_27": 7239131,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "AJ Johnson",
+        "salary_2026_27": 3237120,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 5493394
+      },
+      {
+        "name": "Ryan Nembhard",
+        "salary_2026_27": 2150917,
+        "contract_type": "Veteran Minimum",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
@@ -860,114 +794,88 @@
     "conference": "West",
     "repeater": true,
     "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
         "name": "Nikola Jokic",
-        "salary_2026_27": 59600000,
-        "contract_type": "Designated Veteran Extension",
+        "salary_2026_27": 59033114,
+        "contract_type": "DVET-EXT",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 64000000,
-        "salary_2028_29": 68400000
+        "salary_2027_28": 62841702
       },
       {
         "name": "Jamal Murray",
-        "salary_2026_27": 46100000,
-        "contract_type": "Max",
+        "salary_2026_27": 50105628,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 49500000,
-        "salary_2028_29": 52900000
+        "salary_2027_28": 53817156,
+        "salary_2028_29": 57528684
       },
       {
         "name": "Aaron Gordon",
-        "salary_2026_27": 24000000,
-        "contract_type": "Bird",
+        "salary_2026_27": 31978037,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 25500000,
-        "salary_2028_29": 27000000
-      },
-      {
-        "name": "Christian Braun",
-        "salary_2026_27": 15000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 16000000,
-        "salary_2028_29": 17000000
+        "salary_2027_28": 34536280,
+        "salary_2028_29": 37094523
       },
       {
         "name": "Cameron Johnson",
-        "salary_2026_27": 22500000,
-        "contract_type": "Bird",
+        "salary_2026_27": 23062500,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 23900000
+        "guaranteed": true
       },
       {
-        "name": "Peyton Watson",
-        "salary_2026_27": 6500000,
-        "contract_type": "Rookie Scale",
+        "name": "Christian Braun",
+        "salary_2026_27": 21551726,
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 6900000
+        "salary_2027_28": 23275863,
+        "salary_2028_29": 25000000
       },
       {
         "name": "Jonas Valanciunas",
-        "salary_2026_27": 10400000,
-        "contract_type": "Bird",
+        "salary_2026_27": 10000000,
+        "contract_type": "Sign and Trade",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
+      },
+      {
+        "name": "Zeke Nnaji",
+        "salary_2026_27": 7466667,
+        "contract_type": "Rookie Extension",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 7466667
       },
       {
         "name": "Julian Strawther",
-        "salary_2026_27": 3600000,
+        "salary_2026_27": 4826931,
         "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Bruce Brown",
-        "salary_2026_27": 8000000,
-        "contract_type": "MLE",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
         "name": "DaRon Holmes II",
-        "salary_2026_27": 3500000,
+        "salary_2026_27": 3372120,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 3700000
-      },
-      {
-        "name": "Tim Hardaway Jr.",
-        "salary_2026_27": 5000000,
-        "contract_type": "Veteran",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Spencer Jones",
-        "salary_2026_27": 2000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 2100000
+        "salary_2027_28": 5547138
       }
     ],
     "dead_cap": [],
@@ -978,111 +886,103 @@
     "team_name": "Detroit Pistons",
     "conference": "East",
     "repeater": false,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
         "name": "Cade Cunningham",
-        "salary_2026_27": 46400000,
-        "contract_type": "Designated Rookie Max",
+        "salary_2026_27": 50105628,
+        "contract_type": "DRK-EXT",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 50100000,
-        "salary_2028_29": 53800000
+        "salary_2027_28": 53817156,
+        "salary_2028_29": 57528684
       },
       {
-        "name": "Jaden Ivey",
-        "salary_2026_27": 12000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Jalen Duren",
-        "salary_2026_27": 17000000,
-        "contract_type": "Bird",
+        "name": "Duncan Robinson",
+        "salary_2026_27": 15992957,
+        "contract_type": "Sign and Trade",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 18000000,
-        "salary_2028_29": 19000000
-      },
-      {
-        "name": "Ausar Thompson",
-        "salary_2026_27": 9500000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 10000000
-      },
-      {
-        "name": "Tobias Harris",
-        "salary_2026_27": 26000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
+        "salary_2027_28": 15151222
       },
       {
         "name": "Isaiah Stewart",
         "salary_2026_27": 15000000,
-        "contract_type": "Bird",
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 16000000
-      },
-      {
-        "name": "Ron Holland II",
-        "salary_2026_27": 6500000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 6800000
-      },
-      {
-        "name": "Marcus Sasser",
-        "salary_2026_27": 4400000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Duncan Robinson",
-        "salary_2026_27": 16000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
+        "salary_2027_28": 15000000
       },
       {
         "name": "Caris LeVert",
-        "salary_2026_27": 12000000,
-        "contract_type": "MLE",
+        "salary_2026_27": 14809200,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Bobi Klintman",
-        "salary_2026_27": 2200000,
+        "name": "Ausar Thompson",
+        "salary_2026_27": 11117925,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Ron Holland II",
+        "salary_2026_27": 9069600,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 2300000
+        "salary_2027_28": 11491183
       },
       {
-        "name": "Daniss Jenkins",
-        "salary_2026_27": 2000000,
-        "contract_type": "Veteran",
+        "name": "Paul Reed",
+        "salary_2026_27": 5602689,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
+      },
+      {
+        "name": "Marcus Sasser",
+        "salary_2026_27": 5198983,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Daniss Jenkins",
+        "salary_2026_27": 4000000,
+        "contract_type": "Veteran Minimum",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Tolu Smith III",
+        "salary_2026_27": 2411090,
+        "contract_type": "Veteran Minimum",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Chaz Lanier",
+        "salary_2026_27": 2150917,
+        "contract_type": "RK-2ND",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2525901,
+        "salary_2028_29": 2735698
       }
     ],
     "dead_cap": [],
@@ -1093,110 +993,61 @@
     "team_name": "Golden State Warriors",
     "conference": "West",
     "repeater": false,
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
         "name": "Stephen Curry",
-        "salary_2026_27": 64500000,
-        "salary_2027_28": 67500000,
-        "contract_type": "Designated Veteran Extension",
+        "salary_2026_27": 62587158,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Jonathan Kuminga",
-        "salary_2026_27": 36000000,
-        "salary_2027_28": 38000000,
-        "salary_2028_29": 40000000,
-        "contract_type": "Max",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Andrew Wiggins",
-        "salary_2026_27": 26500000,
-        "salary_2027_28": 26500000,
-        "contract_type": "Regular",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Draymond Green",
-        "salary_2026_27": 24500000,
-        "salary_2027_28": 24500000,
-        "contract_type": "Regular",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Gary Payton II",
-        "salary_2026_27": 13000000,
-        "contract_type": "Regular",
-        "player_option": false,
-        "team_option": true,
-        "guaranteed": true
-      },
-      {
-        "name": "Kevon Looney",
-        "salary_2026_27": 9500000,
-        "contract_type": "Regular",
+        "name": "Jimmy Butler",
+        "salary_2026_27": 56832773,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
         "name": "Moses Moody",
-        "salary_2026_27": 8000000,
-        "salary_2027_28": 8500000,
-        "contract_type": "Regular",
+        "salary_2026_27": 12500000,
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 13425925
       },
       {
         "name": "Brandin Podziemski",
-        "salary_2026_27": 6500000,
-        "salary_2027_28": 7000000,
-        "contract_type": "Regular",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Trayce Jackson-Davis",
-        "salary_2026_27": 5000000,
-        "contract_type": "Regular",
-        "player_option": false,
-        "team_option": true,
-        "guaranteed": true
-      },
-      {
-        "name": "Quinten Post",
-        "salary_2026_27": 4500000,
-        "salary_2027_28": 4500000,
-        "contract_type": "Regular",
+        "salary_2026_27": 5679459,
+        "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
         "name": "Gui Santos",
-        "salary_2026_27": 3500000,
-        "contract_type": "Regular",
+        "salary_2026_27": 4629630,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 5000000,
+        "salary_2028_29": 5370370
       },
       {
-        "name": "Lester Quinones",
-        "salary_2026_27": 3000000,
-        "contract_type": "Two-Way",
+        "name": "Will Richard",
+        "salary_2026_27": 2150917,
+        "contract_type": "RK-2ND",
         "player_option": false,
         "team_option": false,
-        "guaranteed": false
+        "guaranteed": true,
+        "salary_2027_28": 2525901,
+        "salary_2028_29": 2735698
       }
     ],
     "dead_cap": [],
@@ -1207,117 +1058,101 @@
         "to": "Memphis Grizzlies",
         "protected": "1-4"
       }
-    ],
-    "data_confidence": "verified"
+    ]
   },
   {
     "team_id": "HOU",
     "team_name": "Houston Rockets",
     "conference": "West",
     "repeater": true,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
-        "name": "Alperen Sengun",
-        "salary_2026_27": 33900000,
-        "contract_type": "Designated Rookie Max",
+        "name": "Kevin Durant",
+        "salary_2026_27": 43902439,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 36300000,
-        "salary_2028_29": 38700000
+        "salary_2027_28": 46097561
+      },
+      {
+        "name": "Alperen Sengun",
+        "salary_2026_27": 35642202,
+        "contract_type": "Rookie Extension",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 37339450,
+        "salary_2028_29": 39036697
       },
       {
         "name": "Fred VanVleet",
         "salary_2026_27": 25000000,
-        "contract_type": "Bird",
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
         "name": "Jabari Smith Jr.",
-        "salary_2026_27": 12400000,
-        "contract_type": "Rookie Scale",
+        "salary_2026_27": 23643411,
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 13200000,
-        "salary_2028_29": 14000000
+        "salary_2027_28": 21751940,
+        "salary_2028_29": 23643411
       },
       {
-        "name": "Amen Thompson",
-        "salary_2026_27": 12100000,
-        "contract_type": "Rookie Scale",
+        "name": "Dorian Finney-Smith",
+        "salary_2026_27": 13335000,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 12700000,
-        "salary_2028_29": 13300000
-      },
-      {
-        "name": "Tari Eason",
-        "salary_2026_27": 13000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 14000000
+        "salary_2027_28": 13335000,
+        "salary_2028_29": 13335000
       },
       {
         "name": "Steven Adams",
         "salary_2026_27": 13000000,
-        "contract_type": "Bird",
+        "contract_type": "Veteran",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 11869565
+      },
+      {
+        "name": "Amen Thompson",
+        "salary_2026_27": 12258609,
+        "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Dorian Finney-Smith",
-        "salary_2026_27": 14000000,
-        "contract_type": "MLE",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 15000000
-      },
-      {
         "name": "Reed Sheppard",
-        "salary_2026_27": 8500000,
+        "salary_2026_27": 11108880,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 9000000,
-        "salary_2028_29": 9500000
+        "salary_2027_28": 14041625
       },
       {
-        "name": "Jae'Sean Tate",
-        "salary_2026_27": 7800000,
-        "contract_type": "Veteran",
+        "name": "Clint Capela",
+        "salary_2026_27": 7035000,
+        "contract_type": "Sign and Trade",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 7370000
       },
       {
-        "name": "Aaron Holiday",
-        "salary_2026_27": 4900000,
-        "contract_type": "Veteran",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Jock Landale",
-        "salary_2026_27": 8000000,
-        "contract_type": "Veteran",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Jeff Green",
-        "salary_2026_27": 3600000,
+        "name": "J.D. Davison",
+        "salary_2026_27": 2584539,
         "contract_type": "Veteran Minimum",
         "player_option": false,
         "team_option": false,
@@ -1332,117 +1167,126 @@
     "team_name": "Indiana Pacers",
     "conference": "East",
     "repeater": false,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
         "name": "Tyrese Haliburton",
-        "salary_2026_27": 45800000,
-        "contract_type": "Designated Rookie Max",
+        "salary_2026_27": 48924624,
+        "contract_type": "DRK-EXT",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 49500000,
-        "salary_2028_29": 53200000
+        "salary_2027_28": 52298736,
+        "salary_2028_29": 55672848
       },
       {
         "name": "Pascal Siakam",
-        "salary_2026_27": 42700000,
-        "contract_type": "Max",
+        "salary_2026_27": 48924624,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 46100000,
-        "salary_2028_29": 49500000
+        "salary_2027_28": 52298736
+      },
+      {
+        "name": "Ivica Zubac",
+        "salary_2026_27": 20342140,
+        "contract_type": "Veteran",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 21790300
       },
       {
         "name": "Andrew Nembhard",
-        "salary_2026_27": 18100000,
-        "contract_type": "Bird",
+        "salary_2026_27": 19550160,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 19400000,
-        "salary_2028_29": 20700000
+        "salary_2027_28": 20998320
       },
       {
-        "name": "Bennedict Mathurin",
-        "salary_2026_27": 11000000,
-        "contract_type": "Rookie Scale",
+        "name": "Obi Toppin",
+        "salary_2026_27": 15000000,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 16025000
+      },
+      {
+        "name": "T.J. McConnell",
+        "salary_2026_27": 11000000,
+        "contract_type": "Veteran",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 11800000,
+        "salary_2028_29": 11800000
       },
       {
         "name": "Aaron Nesmith",
         "salary_2026_27": 11000000,
-        "contract_type": "Bird",
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 12000000,
-        "salary_2028_29": 13000000
+        "salary_2027_28": 19418000,
+        "salary_2028_29": 20971440
       },
       {
-        "name": "Obi Toppin",
-        "salary_2026_27": 12500000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 13400000,
-        "salary_2028_29": 14300000
-      },
-      {
-        "name": "T.J. McConnell",
-        "salary_2026_27": 9300000,
-        "contract_type": "Bird",
+        "name": "Jarace Walker",
+        "salary_2026_27": 8478542,
+        "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
         "name": "Ben Sheppard",
-        "salary_2026_27": 2400000,
+        "salary_2026_27": 5031669,
         "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 2500000
-      },
-      {
-        "name": "Jarace Walker",
-        "salary_2026_27": 6800000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 7200000
-      },
-      {
-        "name": "Isaiah Jackson",
-        "salary_2026_27": 8000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 8500000
-      },
-      {
-        "name": "Quenton Jackson",
-        "salary_2026_27": 2000000,
-        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "RayJ Dennis",
-        "salary_2026_27": 2000000,
-        "contract_type": "Veteran",
+        "name": "Micah Potter",
+        "salary_2026_27": 2801346,
+        "contract_type": "Veteran Minimum",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Jay Huff",
+        "salary_2026_27": 2667944,
+        "contract_type": "nan",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 2100000
+        "salary_2027_28": 3005085
+      },
+      {
+        "name": "Quenton Jackson",
+        "salary_2026_27": 2584539,
+        "contract_type": "Veteran Minimum",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2934742
+      },
+      {
+        "name": "Johnny Furphy",
+        "salary_2026_27": 2296271,
+        "contract_type": "RK-2ND",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2486995,
+        "salary_2028_29": 3056337
       }
     ],
     "dead_cap": [],
@@ -1453,108 +1297,77 @@
     "team_name": "LA Clippers",
     "conference": "West",
     "repeater": true,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
         "name": "Kawhi Leonard",
-        "salary_2026_27": 50000000,
-        "contract_type": "Max",
+        "salary_2026_27": 50300000,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "James Harden",
-        "salary_2026_27": 35000000,
-        "contract_type": "Bird",
-        "player_option": true,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Ivica Zubac",
-        "salary_2026_27": 19500000,
-        "contract_type": "Bird",
+        "name": "Darius Garland",
+        "salary_2026_27": 42166510,
+        "contract_type": "DRK-EXT",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 20800000,
-        "salary_2028_29": 22100000
+        "salary_2027_28": 44886930
       },
       {
         "name": "Derrick Jones Jr.",
-        "salary_2026_27": 10000000,
-        "contract_type": "MLE",
+        "salary_2026_27": 10476190,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
-      },
-      {
-        "name": "Bogdan Bogdanovic",
-        "salary_2026_27": 16000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Nicolas Batum",
-        "salary_2026_27": 4900000,
-        "contract_type": "Veteran",
-        "player_option": true,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Kris Dunn",
-        "salary_2026_27": 6600000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 7000000
       },
       {
         "name": "Brook Lopez",
-        "salary_2026_27": 8000000,
-        "contract_type": "MLE",
+        "salary_2026_27": 9187500,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Cam Christie",
-        "salary_2026_27": 2300000,
+        "name": "Isaiah Jackson",
+        "salary_2026_27": 7000000,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 6400000
+      },
+      {
+        "name": "Kris Dunn",
+        "salary_2026_27": 5684800,
+        "contract_type": "Sign and Trade",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Yanic Konan Niederhauser",
+        "salary_2026_27": 2880960,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 2400000
+        "salary_2027_28": 3018480,
+        "salary_2028_29": 5448356
       },
       {
-        "name": "Jordan Miller",
-        "salary_2026_27": 2300000,
-        "contract_type": "Veteran",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "John Collins",
-        "salary_2026_27": 18000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Kobe Sanders",
-        "salary_2026_27": 2000000,
-        "contract_type": "Rookie Scale",
+        "name": "Cameron Christie",
+        "salary_2026_27": 2296271,
+        "contract_type": "RK-2ND",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 2100000
+        "salary_2027_28": 2486995
       }
     ],
     "dead_cap": [],
@@ -1566,108 +1379,69 @@
     "conference": "West",
     "repeater": true,
     "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
         "name": "Luka Doncic",
-        "salary_2026_27": 53000000,
-        "contract_type": "Designated Veteran Extension",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 57000000,
-        "salary_2028_29": 61000000
-      },
-      {
-        "name": "LeBron James",
-        "salary_2026_27": 52600000,
-        "contract_type": "Max",
-        "player_option": true,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Austin Reaves",
-        "salary_2026_27": 14000000,
-        "contract_type": "Bird",
-        "player_option": true,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 15000000
-      },
-      {
-        "name": "Rui Hachimura",
-        "salary_2026_27": 18300000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Deandre Ayton",
-        "salary_2026_27": 8100000,
+        "salary_2026_27": 49500000,
         "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Gabe Vincent",
-        "salary_2026_27": 11500000,
-        "contract_type": "MLE",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 53460000,
+        "salary_2028_29": 57420000
       },
       {
         "name": "Jarred Vanderbilt",
-        "salary_2026_27": 11600000,
-        "contract_type": "Bird",
+        "salary_2026_27": 12428571,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 12500000
+        "salary_2027_28": 13285714
       },
       {
-        "name": "Maxi Kleber",
-        "salary_2026_27": 11000000,
-        "contract_type": "Bird",
+        "name": "Deandre Ayton",
+        "salary_2026_27": 8104000,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Jake LaRavia",
+        "salary_2026_27": 6000000,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
         "name": "Dalton Knecht",
-        "salary_2026_27": 4200000,
+        "salary_2026_27": 4201080,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 4400000
-      },
-      {
-        "name": "Jaxson Hayes",
-        "salary_2026_27": 3600000,
-        "contract_type": "Veteran Minimum",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
+        "salary_2027_28": 6452860
       },
       {
         "name": "Bronny James",
-        "salary_2026_27": 2300000,
-        "contract_type": "Rookie Scale",
+        "salary_2026_27": 2296271,
+        "contract_type": "RK-2ND",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 2400000
+        "salary_2027_28": 2486995
       },
       {
-        "name": "Marcus Smart",
-        "salary_2026_27": 5500000,
-        "contract_type": "Veteran",
+        "name": "Adou Thiero",
+        "salary_2026_27": 2150917,
+        "contract_type": "RK-2ND",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 2525901
       }
     ],
     "dead_cap": [],
@@ -1679,115 +1453,147 @@
     "conference": "West",
     "repeater": false,
     "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
-        "name": "Ja Morant",
-        "salary_2026_27": 39400000,
-        "contract_type": "Designated Rookie Max",
+        "name": "Jerami Grant",
+        "salary_2026_27": 34206898,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 42500000,
-        "salary_2028_29": 45600000
+        "salary_2027_28": 36413790
       },
       {
-        "name": "Jaren Jackson Jr.",
-        "salary_2026_27": 47100000,
-        "contract_type": "Designated Veteran Extension",
+        "name": "Kentavious Caldwell-Pope",
+        "salary_2026_27": 21621500,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 50800000,
-        "salary_2028_29": 54500000
-      },
-      {
-        "name": "Zach Edey",
-        "salary_2026_27": 8500000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 9000000,
-        "salary_2028_29": 9500000
-      },
-      {
-        "name": "Jaylen Wells",
-        "salary_2026_27": 2300000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 2400000
+        "guaranteed": true
       },
       {
         "name": "Santi Aldama",
-        "salary_2026_27": 13000000,
-        "contract_type": "Bird",
+        "salary_2026_27": 17007043,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 14000000
-      },
-      {
-        "name": "Scotty Pippen Jr.",
-        "salary_2026_27": 4000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 4300000
-      },
-      {
-        "name": "Cedric Coward",
-        "salary_2026_27": 4500000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 4700000,
-        "salary_2028_29": 4900000
+        "salary_2027_28": 17007043
       },
       {
         "name": "Brandon Clarke",
-        "salary_2026_27": 13000000,
-        "contract_type": "Bird",
+        "salary_2026_27": 12500000,
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Vince Williams Jr.",
-        "salary_2026_27": 6000000,
-        "contract_type": "Bird",
+        "name": "Ty Jerome",
+        "salary_2026_27": 9220050,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 6400000
+        "salary_2027_28": 9659100
       },
       {
-        "name": "John Konchar",
-        "salary_2026_27": 6300000,
-        "contract_type": "Bird",
+        "name": "Taylor Hendricks",
+        "salary_2026_27": 7805900,
+        "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "GG Jackson",
-        "salary_2026_27": 2400000,
+        "name": "Zach Edey",
+        "salary_2026_27": 6332760,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 2500000
+        "salary_2027_28": 8067937
       },
       {
-        "name": "PJ Hall",
-        "salary_2026_27": 2000000,
-        "contract_type": "Veteran",
+        "name": "Cedric Coward",
+        "salary_2026_27": 6001080,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 6286920,
+        "salary_2028_29": 8342743
+      },
+      {
+        "name": "Kris Murray",
+        "salary_2026_27": 5315004,
+        "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
+      },
+      {
+        "name": "Walter Clayton Jr.",
+        "salary_2026_27": 4190520,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 4390320,
+        "salary_2028_29": 6752312
+      },
+      {
+        "name": "Taj Gibson",
+        "salary_2026_27": 3815861,
+        "contract_type": "Veteran Minimum",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Olivier-Maxence Prosper",
+        "salary_2026_27": 2497812,
+        "contract_type": "Veteran Minimum",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Scotty Pippen Jr.",
+        "salary_2026_27": 2461462,
+        "contract_type": "nan",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2789215
+      },
+      {
+        "name": "Cam Spencer",
+        "salary_2026_27": 2411090,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2616754,
+        "salary_2028_29": 2830685
+      },
+      {
+        "name": "G.G. Jackson",
+        "salary_2026_27": 2406205,
+        "contract_type": "Veteran Minimum",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Jaylen Wells",
+        "salary_2026_27": 2296271,
+        "contract_type": "RK-2ND",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2486995
       }
     ],
     "dead_cap": [],
@@ -1798,108 +1604,104 @@
     "team_name": "Miami Heat",
     "conference": "East",
     "repeater": false,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
         "name": "Bam Adebayo",
-        "salary_2026_27": 37100000,
-        "contract_type": "Designated Veteran Extension",
+        "salary_2026_27": 49500000,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 39800000,
-        "salary_2028_29": 42600000
+        "salary_2027_28": 53460000,
+        "salary_2028_29": 57420000
       },
       {
         "name": "Tyler Herro",
-        "salary_2026_27": 31000000,
-        "contract_type": "Max",
+        "salary_2026_27": 33000000,
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 33000000
+        "guaranteed": true
       },
       {
         "name": "Andrew Wiggins",
-        "salary_2026_27": 28200000,
-        "contract_type": "Max",
+        "salary_2026_27": 30169644,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Terry Rozier",
-        "salary_2026_27": 26600000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Norman Powell",
-        "salary_2026_27": 20000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 16346154,
+        "salary_2028_29": 17653846
       },
       {
         "name": "Nikola Jovic",
-        "salary_2026_27": 5300000,
-        "contract_type": "Rookie Scale",
+        "salary_2026_27": 16200000,
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 6500000
-      },
-      {
-        "name": "Jaime Jaquez Jr.",
-        "salary_2026_27": 4100000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 4300000
-      },
-      {
-        "name": "Kel'el Ware",
-        "salary_2026_27": 5400000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 5700000
-      },
-      {
-        "name": "Pelle Larsson",
-        "salary_2026_27": 2400000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 2500000
+        "salary_2027_28": 14904000,
+        "salary_2028_29": 15096000
       },
       {
         "name": "Davion Mitchell",
-        "salary_2026_27": 9000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 9500000
-      },
-      {
-        "name": "Haywood Highsmith",
-        "salary_2026_27": 5600000,
-        "contract_type": "Bird",
+        "salary_2026_27": 12400000,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Keshad Johnson",
-        "salary_2026_27": 2000000,
-        "contract_type": "Veteran",
+        "name": "Jaime Jaquez Jr.",
+        "salary_2026_27": 5939141,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Kel'el Ware",
+        "salary_2026_27": 4654920,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 7135992
+      },
+      {
+        "name": "Kasparas Jakucionis",
+        "salary_2026_27": 3841680,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 4024440,
+        "salary_2028_29": 6205687
+      },
+      {
+        "name": "Myron Gardner",
+        "salary_2026_27": 2584539,
+        "contract_type": "Veteran Minimum",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2525901
+      },
+      {
+        "name": "Dru Smith",
+        "salary_2026_27": 2584539,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2934742
+      },
+      {
+        "name": "Pelle Larsson",
+        "salary_2026_27": 2296271,
+        "contract_type": "RK-2ND",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
@@ -1914,119 +1716,103 @@
     "conference": "East",
     "repeater": true,
     "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
         "name": "Giannis Antetokounmpo",
-        "salary_2026_27": 54100000,
-        "contract_type": "Designated Veteran Extension",
+        "salary_2026_27": 58456566,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 58400000,
-        "salary_2028_29": 62700000
+        "salary_2027_28": 62786682
       },
       {
         "name": "Myles Turner",
-        "salary_2026_27": 24500000,
-        "contract_type": "MLE",
+        "salary_2026_27": 26584164,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 25700000,
-        "salary_2028_29": 27000000
+        "salary_2027_28": 27850077,
+        "salary_2028_29": 29115990
       },
       {
         "name": "Kyle Kuzma",
-        "salary_2026_27": 22000000,
-        "contract_type": "Bird",
+        "salary_2026_27": 20490152,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 23200000
+        "guaranteed": true
       },
       {
         "name": "Bobby Portis",
-        "salary_2026_27": 13400000,
-        "contract_type": "Bird",
-        "player_option": true,
+        "salary_2026_27": 14521414,
+        "contract_type": "Free Agent",
+        "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 14000000
-      },
-      {
-        "name": "Kevin Porter Jr.",
-        "salary_2026_27": 11000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Gary Trent Jr.",
-        "salary_2026_27": 8000000,
-        "contract_type": "MLE",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
+        "salary_2027_28": 15597074
       },
       {
         "name": "AJ Green",
-        "salary_2026_27": 7000000,
-        "contract_type": "Bird",
+        "salary_2026_27": 10044644,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 7500000
+        "salary_2027_28": 10848215,
+        "salary_2028_29": 11651786
       },
       {
-        "name": "Ryan Rollins",
-        "salary_2026_27": 12000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 13000000
-      },
-      {
-        "name": "Taurean Prince",
-        "salary_2026_27": 3600000,
-        "contract_type": "Veteran Minimum",
+        "name": "Kevin Porter Jr.",
+        "salary_2026_27": 5390700,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Cole Anthony",
-        "salary_2026_27": 3600000,
-        "contract_type": "Veteran Minimum",
+        "name": "Ryan Rollins",
+        "salary_2026_27": 4000000,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 4000000
+      },
+      {
+        "name": "Gary Harris",
+        "salary_2026_27": 3815861,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Taurean Prince",
+        "salary_2026_27": 3815861,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
         "name": "Jericho Sims",
-        "salary_2026_27": 2400000,
-        "contract_type": "Veteran",
+        "salary_2026_27": 2801346,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Tyler Smith",
-        "salary_2026_27": 2200000,
-        "contract_type": "Rookie Scale",
+        "name": "Pete Nance",
+        "salary_2026_27": 2497812,
+        "contract_type": "Veteran Minimum",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 2300000
-      },
-      {
-        "name": "Chris Livingston",
-        "salary_2026_27": 2200000,
-        "contract_type": "Veteran",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
+        "salary_2027_28": 2707612
       }
     ],
     "dead_cap": [],
@@ -2045,113 +1831,82 @@
     "conference": "West",
     "repeater": true,
     "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
         "name": "Anthony Edwards",
-        "salary_2026_27": 45500000,
-        "contract_type": "Designated Rookie Max",
+        "salary_2026_27": 48924624,
+        "contract_type": "DRK-EXT",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 49100000,
-        "salary_2028_29": 52800000
-      },
-      {
-        "name": "Julius Randle",
-        "salary_2026_27": 33000000,
-        "contract_type": "Bird",
-        "player_option": true,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 35000000
+        "salary_2027_28": 52298736,
+        "salary_2028_29": 55672848
       },
       {
         "name": "Rudy Gobert",
-        "salary_2026_27": 43800000,
-        "contract_type": "Max",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Jaden McDaniels",
-        "salary_2026_27": 24500000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 26200000,
-        "salary_2028_29": 27900000
-      },
-      {
-        "name": "Naz Reid",
-        "salary_2026_27": 15000000,
-        "contract_type": "Bird",
-        "player_option": true,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 16000000
-      },
-      {
-        "name": "Mike Conley",
-        "salary_2026_27": 9000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Donte DiVincenzo",
-        "salary_2026_27": 12000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 12800000
-      },
-      {
-        "name": "Terrence Shannon Jr.",
-        "salary_2026_27": 3000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 3200000
-      },
-      {
-        "name": "Rob Dillingham",
-        "salary_2026_27": 5800000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 6100000
-      },
-      {
-        "name": "Jaylen Clark",
-        "salary_2026_27": 2300000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 2400000
-      },
-      {
-        "name": "Joan Beringer",
-        "salary_2026_27": 4000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 4200000
-      },
-      {
-        "name": "Luka Garza",
-        "salary_2026_27": 2400000,
+        "salary_2026_27": 36500000,
         "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 38000000
+      },
+      {
+        "name": "Julius Randle",
+        "salary_2026_27": 33333334,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 35802468
+      },
+      {
+        "name": "Jaden McDaniels",
+        "salary_2026_27": 26200000,
+        "contract_type": "Rookie Extension",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 28006898,
+        "salary_2028_29": 29813790
+      },
+      {
+        "name": "Naz Reid",
+        "salary_2026_27": 23275862,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 25000000,
+        "salary_2028_29": 26724138
+      },
+      {
+        "name": "Donte DiVincenzo",
+        "salary_2026_27": 12535000,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
         "guaranteed": true
+      },
+      {
+        "name": "Joan Beringer",
+        "salary_2026_27": 4411200,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 4621200,
+        "salary_2028_29": 7098163
+      },
+      {
+        "name": "Terrence Shannon Jr.",
+        "salary_2026_27": 2801640,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 5054159
       }
     ],
     "dead_cap": [],
@@ -2162,116 +1917,126 @@
     "team_name": "New Orleans Pelicans",
     "conference": "West",
     "repeater": false,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
         "name": "Zion Williamson",
-        "salary_2026_27": 39400000,
-        "contract_type": "Designated Rookie Max",
+        "salary_2026_27": 42166510,
+        "contract_type": "DRK-EXT",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 42500000,
-        "salary_2028_29": 45600000
-      },
-      {
-        "name": "Dejounte Murray",
-        "salary_2026_27": 30000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 32000000,
-        "salary_2028_29": 34000000
-      },
-      {
-        "name": "Trey Murphy III",
-        "salary_2026_27": 25000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 27000000,
-        "salary_2028_29": 29000000
-      },
-      {
-        "name": "Herbert Jones",
-        "salary_2026_27": 14000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 15000000
+        "salary_2027_28": 44886930
       },
       {
         "name": "Jordan Poole",
-        "salary_2026_27": 31800000,
-        "contract_type": "Bird",
+        "salary_2026_27": 34044642,
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Yves Missi",
-        "salary_2026_27": 4500000,
-        "contract_type": "Rookie Scale",
+        "name": "Dejounte Murray",
+        "salary_2026_27": 32785071,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 4700000
+        "salary_2027_28": 30751504
+      },
+      {
+        "name": "Trey Murphy III",
+        "salary_2026_27": 27000000,
+        "contract_type": "Rookie Extension",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 29000000,
+        "salary_2028_29": 31000000
+      },
+      {
+        "name": "Herb Jones",
+        "salary_2026_27": 14898786,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 20858300,
+        "salary_2028_29": 22526964
       },
       {
         "name": "Jeremiah Fears",
-        "salary_2026_27": 8000000,
+        "salary_2026_27": 7896240,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 8400000,
-        "salary_2028_29": 8800000
+        "salary_2027_28": 8271960,
+        "salary_2028_29": 10505389
       },
       {
-        "name": "Derik Queen",
-        "salary_2026_27": 9000000,
+        "name": "Jordan Hawkins",
+        "salary_2026_27": 7021895,
         "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 9500000,
-        "salary_2028_29": 10000000
-      },
-      {
-        "name": "Jose Alvarado",
-        "salary_2026_27": 9000000,
-        "contract_type": "Bird",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
         "name": "Saddiq Bey",
-        "salary_2026_27": 6500000,
-        "contract_type": "Bird",
+        "salary_2026_27": 6557080,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Kevon Looney",
-        "salary_2026_27": 8000000,
-        "contract_type": "Veteran",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Karlo Matkovic",
-        "salary_2026_27": 2300000,
+        "name": "Derik Queen",
+        "salary_2026_27": 5416080,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 2400000
+        "salary_2027_28": 5673840,
+        "salary_2028_29": 8107918
+      },
+      {
+        "name": "Yves Missi",
+        "salary_2026_27": 3512760,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 5595827
+      },
+      {
+        "name": "Bryce McGowens",
+        "salary_2026_27": 2584539,
+        "contract_type": "Veteran Minimum",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2934742
+      },
+      {
+        "name": "Karlo Matkovic",
+        "salary_2026_27": 2296271,
+        "contract_type": "RK-2ND",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Micah Peavy",
+        "salary_2026_27": 2150917,
+        "contract_type": "RK-2ND",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2525901,
+        "salary_2028_29": 2735698
       }
     ],
     "dead_cap": [],
@@ -2283,124 +2048,81 @@
     "conference": "East",
     "repeater": false,
     "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
-        "name": "Jalen Brunson",
-        "salary_2026_27": 40000000,
-        "contract_type": "Max",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 43000000,
-        "salary_2028_29": 46000000
-      },
-      {
         "name": "Karl-Anthony Towns",
-        "salary_2026_27": 53000000,
-        "contract_type": "Max",
-        "player_option": true,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 57000000,
-        "salary_2028_29": 61000000
-      },
-      {
-        "name": "Mikal Bridges",
-        "salary_2026_27": 25000000,
-        "contract_type": "Bird",
+        "salary_2026_27": 57078728,
+        "contract_type": "DVET-EXT",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 27000000,
-        "salary_2028_29": 29000000
+        "salary_2027_28": 61015192
       },
       {
         "name": "OG Anunoby",
-        "salary_2026_27": 39000000,
-        "contract_type": "Max",
+        "salary_2026_27": 42500000,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 42000000,
-        "salary_2028_29": 45000000
+        "salary_2027_28": 45431034,
+        "salary_2028_29": 48362068
+      },
+      {
+        "name": "Jalen Brunson",
+        "salary_2026_27": 37739521,
+        "contract_type": "Veteran",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 40535041,
+        "salary_2028_29": 43330561
+      },
+      {
+        "name": "Mikal Bridges",
+        "salary_2026_27": 33482145,
+        "contract_type": "Veteran",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 36160714,
+        "salary_2028_29": 38839285
       },
       {
         "name": "Josh Hart",
-        "salary_2026_27": 19600000,
-        "contract_type": "Bird",
-        "player_option": true,
+        "salary_2026_27": 20923760,
+        "contract_type": "Veteran",
+        "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 20900000,
-        "salary_2028_29": 22300000
+        "salary_2027_28": 22375280
       },
       {
-        "name": "Mitchell Robinson",
-        "salary_2026_27": 13000000,
-        "contract_type": "Bird",
+        "name": "Miles McBride",
+        "salary_2026_27": 3956523,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
-      },
-      {
-        "name": "Deuce McBride",
-        "salary_2026_27": 13000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 14000000,
-        "salary_2028_29": 15000000
-      },
-      {
-        "name": "Tyler Kolek",
-        "salary_2026_27": 2300000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 2400000
       },
       {
         "name": "Pacome Dadiet",
-        "salary_2026_27": 2500000,
+        "salary_2026_27": 2983680,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 2600000
+        "salary_2027_28": 5373608
       },
       {
-        "name": "Ariel Hukporti",
-        "salary_2026_27": 2200000,
-        "contract_type": "Veteran",
+        "name": "Tyler Kolek",
+        "salary_2026_27": 2296271,
+        "contract_type": "RK-2ND",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Mohamed Diawara",
-        "salary_2026_27": 2000000,
-        "contract_type": "Veteran",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Jordan Clarkson",
-        "salary_2026_27": 3600000,
-        "contract_type": "Veteran Minimum",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Guerschon Yabusele",
-        "salary_2026_27": 5500000,
-        "contract_type": "MLE",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 2486995
       }
     ],
     "dead_cap": [],
@@ -2411,235 +2133,244 @@
     "team_name": "Oklahoma City Thunder",
     "conference": "West",
     "repeater": false,
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
-        "name": "Shai Gilgeous-Alexander",
-        "salary_2026_27": 52000000,
-        "salary_2027_28": 55000000,
-        "salary_2028_29": 58000000,
-        "contract_type": "Designated Veteran Extension",
+        "name": "Chet Holmgren",
+        "salary_2026_27": 41250000,
+        "contract_type": "rookie-maximum-extension",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 44550000,
+        "salary_2028_29": 47850000
       },
       {
         "name": "Jalen Williams",
-        "salary_2026_27": 34000000,
-        "salary_2027_28": 36000000,
-        "salary_2028_29": 38000000,
-        "contract_type": "Max",
+        "salary_2026_27": 41250000,
+        "contract_type": "DRK-EXT",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 44550000,
+        "salary_2028_29": 47850000
       },
       {
-        "name": "Chet Holmgren",
-        "salary_2026_27": 29000000,
-        "salary_2027_28": 31000000,
-        "salary_2028_29": 33000000,
-        "contract_type": "Max Extension",
+        "name": "Shai Gilgeous-Alexander",
+        "salary_2026_27": 40806150,
+        "contract_type": "DRK-EXT",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Isaiah Hartenstein",
-        "salary_2026_27": 12000000,
-        "salary_2027_28": 12000000,
-        "contract_type": "Regular",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Luguentz Dort",
-        "salary_2026_27": 10000000,
-        "salary_2027_28": 10000000,
-        "contract_type": "Regular",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 60637500,
+        "salary_2028_29": 65488500
       },
       {
         "name": "Alex Caruso",
-        "salary_2026_27": 8500000,
-        "contract_type": "Regular",
-        "player_option": true,
+        "salary_2026_27": 19550160,
+        "contract_type": "Veteran",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 20998320,
+        "salary_2028_29": 22446480
+      },
+      {
+        "name": "Luguentz Dort",
+        "salary_2026_27": 17722222,
+        "contract_type": "Free Agent",
+        "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Ousmane Dieng",
-        "salary_2026_27": 4000000,
-        "salary_2027_28": 4500000,
-        "contract_type": "Regular",
+        "name": "Isaiah Joe",
+        "salary_2026_27": 11323006,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 11323006
+      },
+      {
+        "name": "Aaron Wiggins",
+        "salary_2026_27": 9028038,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 8168226,
+        "salary_2028_29": 8168226
+      },
+      {
+        "name": "Jaylin Williams",
+        "salary_2026_27": 7774648,
+        "contract_type": "Veteran",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 7774648
+      },
+      {
+        "name": "Cason Wallace",
+        "salary_2026_27": 7420806,
+        "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
         "name": "Nikola Topic",
-        "salary_2026_27": 4000000,
-        "salary_2027_28": 4500000,
-        "contract_type": "Rookie",
-        "player_option": false,
-        "team_option": true,
-        "guaranteed": true
-      },
-      {
-        "name": "Isaiah Joe",
-        "salary_2026_27": 2500000,
-        "contract_type": "Regular",
-        "player_option": false,
-        "team_option": true,
-        "guaranteed": true
-      },
-      {
-        "name": "Jaylin Williams",
-        "salary_2026_27": 2000000,
-        "contract_type": "Regular",
-        "player_option": false,
-        "team_option": true,
-        "guaranteed": true
-      },
-      {
-        "name": "Aaron Wiggins",
-        "salary_2026_27": 2000000,
-        "contract_type": "Regular",
+        "salary_2026_27": 5429760,
+        "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 7482210
       },
       {
-        "name": "Kenrich Williams",
-        "salary_2026_27": 2000000,
-        "contract_type": "Regular",
+        "name": "Thomas Sorber",
+        "salary_2026_27": 4887720,
+        "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 5120400,
+        "salary_2028_29": 7849573
+      },
+      {
+        "name": "Jared McCain",
+        "salary_2026_27": 4422600,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 6784268
+      },
+      {
+        "name": "Ajay Mitchell",
+        "salary_2026_27": 2850000,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2850000
       }
     ],
     "dead_cap": [],
-    "draft_picks_owed": [],
-    "data_confidence": "verified"
+    "draft_picks_owed": []
   },
   {
     "team_id": "ORL",
     "team_name": "Orlando Magic",
     "conference": "East",
     "repeater": false,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
-        "name": "Paolo Banchero",
-        "salary_2026_27": 46400000,
-        "contract_type": "Designated Rookie Max",
+        "name": "Franz Wagner",
+        "salary_2026_27": 41754690,
+        "contract_type": "DRK-EXT",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 50100000,
-        "salary_2028_29": 53800000
+        "salary_2027_28": 44847630,
+        "salary_2028_29": 47940570
       },
       {
-        "name": "Franz Wagner",
-        "salary_2026_27": 38600000,
-        "contract_type": "Max",
+        "name": "Paolo Banchero",
+        "salary_2026_27": 41250000,
+        "contract_type": "DRK-EXT",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 41700000,
-        "salary_2028_29": 44800000
+        "salary_2027_28": 47850000,
+        "salary_2028_29": 47850000
       },
       {
         "name": "Desmond Bane",
-        "salary_2026_27": 39000000,
-        "contract_type": "Max",
+        "salary_2026_27": 39446090,
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 42000000,
-        "salary_2028_29": 45000000
+        "salary_2027_28": 42166510,
+        "salary_2028_29": 44886930
       },
       {
         "name": "Jalen Suggs",
-        "salary_2026_27": 30000000,
-        "contract_type": "Max",
+        "salary_2026_27": 32400000,
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 32000000,
-        "salary_2028_29": 34000000
+        "salary_2027_28": 29600000,
+        "salary_2028_29": 26800000
       },
       {
         "name": "Wendell Carter Jr.",
-        "salary_2026_27": 21000000,
-        "contract_type": "Bird",
+        "salary_2026_27": 18102000,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 22500000
-      },
-      {
-        "name": "Jonathan Isaac",
-        "salary_2026_27": 14000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 15000000
+        "salary_2027_28": 19550160,
+        "salary_2028_29": 20998320
       },
       {
         "name": "Anthony Black",
-        "salary_2026_27": 8400000,
+        "salary_2026_27": 10106316,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 8900000
-      },
-      {
-        "name": "Jett Howard",
-        "salary_2026_27": 6200000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 6500000
-      },
-      {
-        "name": "Tristan da Silva",
-        "salary_2026_27": 4200000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 4400000
+        "guaranteed": true
       },
       {
         "name": "Goga Bitadze",
-        "salary_2026_27": 8000000,
-        "contract_type": "Bird",
+        "salary_2026_27": 7608696,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Tristan Da Silva",
+        "salary_2026_27": 3991200,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 6138466
+      },
+      {
+        "name": "Jase Richardson",
+        "salary_2026_27": 3132360,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 3282000,
+        "salary_2028_29": 5910882
+      },
+      {
+        "name": "Jamal Cain",
+        "salary_2026_27": 2584539,
+        "contract_type": "Veteran Minimum",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
         "name": "Noah Penda",
-        "salary_2026_27": 3000000,
-        "contract_type": "Rookie Scale",
+        "salary_2026_27": 2150917,
+        "contract_type": "RK-2ND",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 3200000
-      },
-      {
-        "name": "Jase Richardson",
-        "salary_2026_27": 4000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 4200000
+        "salary_2027_28": 2525901,
+        "salary_2028_29": 2735698
       }
     ],
     "dead_cap": [],
@@ -2651,112 +2382,98 @@
     "conference": "East",
     "repeater": false,
     "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
         "name": "Joel Embiid",
-        "salary_2026_27": 55200000,
-        "contract_type": "Designated Veteran Extension",
-        "player_option": true,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 59500000,
-        "salary_2028_29": 63800000
-      },
-      {
-        "name": "Tyrese Maxey",
-        "salary_2026_27": 42100000,
-        "contract_type": "Max",
+        "salary_2026_27": 57985752,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 45400000,
-        "salary_2028_29": 48700000
+        "salary_2027_28": 62624612,
+        "salary_2028_29": 67263472
       },
       {
         "name": "Paul George",
-        "salary_2026_27": 51700000,
-        "contract_type": "Max",
-        "player_option": true,
+        "salary_2026_27": 54126380,
+        "contract_type": "Free Agent",
+        "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 56586670
+      },
+      {
+        "name": "Tyrese Maxey",
+        "salary_2026_27": 40770520,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 43582280,
+        "salary_2028_29": 46394040
       },
       {
         "name": "VJ Edgecombe",
-        "salary_2026_27": 11000000,
+        "salary_2026_27": 11663880,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 11500000,
-        "salary_2028_29": 12000000
+        "salary_2027_28": 12219840,
+        "salary_2028_29": 15445878
       },
       {
-        "name": "Jared McCain",
-        "salary_2026_27": 4000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 4200000
-      },
-      {
-        "name": "Kelly Oubre Jr.",
-        "salary_2026_27": 8400000,
-        "contract_type": "MLE",
-        "player_option": true,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Andre Drummond",
-        "salary_2026_27": 5000000,
-        "contract_type": "Veteran",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Quentin Grimes",
-        "salary_2026_27": 8000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 8500000
-      },
-      {
-        "name": "Justin Edwards",
-        "salary_2026_27": 2000000,
-        "contract_type": "Veteran",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 2100000
-      },
-      {
-        "name": "Adem Bona",
-        "salary_2026_27": 2200000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 2300000
-      },
-      {
-        "name": "Eric Gordon",
-        "salary_2026_27": 3600000,
+        "name": "Dominick Barlow",
+        "salary_2026_27": 3415000,
         "contract_type": "Veteran Minimum",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Ricky Council IV",
-        "salary_2026_27": 2200000,
-        "contract_type": "Veteran",
+        "name": "Dalen Terry",
+        "salary_2026_27": 2584539,
+        "contract_type": "Veteran Minimum",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
+      },
+      {
+        "name": "Jabari Walker",
+        "salary_2026_27": 2584539,
+        "contract_type": "Veteran Minimum",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Justin Edwards",
+        "salary_2026_27": 2411090,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2616754
+      },
+      {
+        "name": "Adem Bona",
+        "salary_2026_27": 2296271,
+        "contract_type": "RK-2ND",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2486995
+      },
+      {
+        "name": "Johni Broome",
+        "salary_2026_27": 2150917,
+        "contract_type": "RK-2ND",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 2525901,
+        "salary_2028_29": 2735698
       }
     ],
     "dead_cap": [],
@@ -2767,107 +2484,107 @@
     "team_name": "Phoenix Suns",
     "conference": "West",
     "repeater": true,
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
         "name": "Devin Booker",
-        "salary_2026_27": 58000000,
-        "salary_2027_28": 61000000,
-        "salary_2028_29": 64000000,
-        "contract_type": "Designated Veteran Extension",
+        "salary_2026_27": 57078728,
+        "contract_type": "DVET-EXT",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 61015192,
+        "salary_2028_29": 63669550
       },
       {
-        "name": "Kevin Durant",
-        "salary_2026_27": 56000000,
-        "salary_2027_28": 57500000,
-        "contract_type": "Max",
-        "player_option": true,
+        "name": "Jalen Green",
+        "salary_2026_27": 36251166,
+        "contract_type": "Rookie Extension",
+        "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 36000000
       },
       {
-        "name": "Bradley Beal",
-        "salary_2026_27": 51000000,
-        "contract_type": "Max",
-        "player_option": true,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Jusuf Nurkic",
-        "salary_2026_27": 19500000,
-        "salary_2027_28": 20500000,
-        "contract_type": "Regular",
+        "name": "Dillon Brooks",
+        "salary_2026_27": 20992727,
+        "contract_type": "Sign and Trade",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
         "name": "Grayson Allen",
-        "salary_2026_27": 14000000,
-        "salary_2027_28": 14000000,
-        "contract_type": "Regular",
+        "salary_2026_27": 18125000,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 19375000
       },
       {
         "name": "Royce O'Neale",
-        "salary_2026_27": 8000000,
-        "contract_type": "Regular",
+        "salary_2026_27": 10875000,
+        "contract_type": "Free Agent",
         "player_option": false,
-        "team_option": true,
-        "guaranteed": true
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 11625000
       },
       {
-        "name": "Eric Gordon",
-        "salary_2026_27": 5500000,
+        "name": "Khaman Maluach",
+        "salary_2026_27": 6316680,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 6617160,
+        "salary_2028_29": 8436880
+      },
+      {
+        "name": "Haywood Highsmith",
+        "salary_2026_27": 3018158,
         "contract_type": "Veteran Minimum",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Drew Eubanks",
-        "salary_2026_27": 5000000,
-        "contract_type": "Regular",
+        "name": "Ryan Dunn",
+        "salary_2026_27": 2784240,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 5025553
+      },
+      {
+        "name": "Jamaree Bouyea",
+        "salary_2026_27": 2584539,
+        "contract_type": "Veteran Minimum",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Monte Morris",
-        "salary_2026_27": 4000000,
-        "contract_type": "Regular",
+        "name": "Oso Ighodaro",
+        "salary_2026_27": 2296271,
+        "contract_type": "RK-2ND",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 2486995
       },
       {
-        "name": "Bol Bol",
-        "salary_2026_27": 3000000,
-        "contract_type": "Regular",
+        "name": "Rasheer Fleming",
+        "salary_2026_27": 2150917,
+        "contract_type": "RK-2ND",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Nassir Little",
-        "salary_2026_27": 2500000,
-        "contract_type": "Regular",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Josh Okogie",
-        "salary_2026_27": 2000000,
-        "contract_type": "Regular",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 2525901,
+        "salary_2028_29": 2735698
       }
     ],
     "dead_cap": [],
@@ -2890,121 +2607,112 @@
         "to": "Brooklyn Nets",
         "protected": null
       }
-    ],
-    "data_confidence": "verified"
+    ]
   },
   {
     "team_id": "POR",
     "team_name": "Portland Trail Blazers",
     "conference": "West",
     "repeater": false,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
-        "name": "Jerami Grant",
-        "salary_2026_27": 32000000,
-        "contract_type": "Bird",
+        "name": "Ja Morant",
+        "salary_2026_27": 42166510,
+        "contract_type": "DRK-EXT",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 34000000,
-        "salary_2028_29": 36000000
+        "salary_2027_28": 44886930
       },
       {
-        "name": "Deni Avdija",
-        "salary_2026_27": 14500000,
-        "contract_type": "Bird",
+        "name": "Jrue Holiday",
+        "salary_2026_27": 34800000,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 15500000,
-        "salary_2028_29": 16500000
+        "salary_2027_28": 37200000
       },
       {
         "name": "Shaedon Sharpe",
-        "salary_2026_27": 17000000,
-        "contract_type": "Rookie Scale",
+        "salary_2026_27": 20089287,
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 18000000
-      },
-      {
-        "name": "Scoot Henderson",
-        "salary_2026_27": 12100000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
+        "salary_2027_28": 21696429,
+        "salary_2028_29": 23303571
       },
       {
         "name": "Toumani Camara",
-        "salary_2026_27": 8000000,
-        "contract_type": "Bird",
+        "salary_2026_27": 18080358,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 8500000,
-        "salary_2028_29": 9000000
+        "salary_2027_28": 19526786,
+        "salary_2028_29": 20973214
+      },
+      {
+        "name": "Scoot Henderson",
+        "salary_2026_27": 13585523,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Damian Lillard",
+        "salary_2026_27": 13398000,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 14104000
+      },
+      {
+        "name": "Deni Avdija",
+        "salary_2026_27": 13125000,
+        "contract_type": "Rookie Extension",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 11875000
       },
       {
         "name": "Donovan Clingan",
-        "salary_2026_27": 8200000,
+        "salary_2026_27": 7519920,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 8600000,
-        "salary_2028_29": 9000000
-      },
-      {
-        "name": "Robert Williams III",
-        "salary_2026_27": 13000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
+        "salary_2027_28": 9550298
       },
       {
         "name": "Yang Hansen",
-        "salary_2026_27": 5500000,
+        "salary_2026_27": 4643520,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 5800000,
-        "salary_2028_29": 6100000
+        "salary_2027_28": 4864920,
+        "salary_2028_29": 7462788
       },
       {
-        "name": "Kris Murray",
-        "salary_2026_27": 5000000,
-        "contract_type": "Rookie Scale",
+        "name": "Vit Krejci",
+        "salary_2026_27": 2667944,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 5300000
-      },
-      {
-        "name": "Caleb Love",
-        "salary_2026_27": 2000000,
-        "contract_type": "Veteran",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Rayan Rupert",
-        "salary_2026_27": 2400000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 2500000
+        "salary_2027_28": 3005085
       },
       {
         "name": "Sidy Cissoko",
-        "salary_2026_27": 2200000,
-        "contract_type": "Veteran",
+        "salary_2026_27": 2497812,
+        "contract_type": "Veteran Minimum",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
@@ -3018,111 +2726,89 @@
     "team_name": "Sacramento Kings",
     "conference": "West",
     "repeater": false,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
+        "name": "Zach LaVine",
+        "salary_2026_27": 48967380,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
         "name": "Domantas Sabonis",
-        "salary_2026_27": 43600000,
-        "contract_type": "Max",
+        "salary_2026_27": 45472000,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 46500000
-      },
-      {
-        "name": "Zach LaVine",
-        "salary_2026_27": 47500000,
-        "contract_type": "Max",
-        "player_option": true,
-        "team_option": false,
-        "guaranteed": true
+        "salary_2027_28": 48608000
       },
       {
         "name": "DeMar DeRozan",
-        "salary_2026_27": 25000000,
-        "contract_type": "Bird",
+        "salary_2026_27": 25740000,
+        "contract_type": "Sign and Trade",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Malik Monk",
-        "salary_2026_27": 19000000,
-        "contract_type": "Bird",
+        "name": "De'Andre Hunter",
+        "salary_2026_27": 24910714,
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 21000000
+        "guaranteed": true
       },
       {
         "name": "Keegan Murray",
-        "salary_2026_27": 12300000,
-        "contract_type": "Rookie Scale",
+        "salary_2026_27": 24137936,
+        "contract_type": "Rookie Extension",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 13100000
+        "salary_2027_28": 26068965,
+        "salary_2028_29": 27999999
       },
       {
-        "name": "Devin Carter",
-        "salary_2026_27": 6700000,
-        "contract_type": "Rookie Scale",
+        "name": "Malik Monk",
+        "salary_2026_27": 20190035,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 7000000
-      },
-      {
-        "name": "Keon Ellis",
-        "salary_2026_27": 7700000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 8200000
-      },
-      {
-        "name": "Dennis Schroder",
-        "salary_2026_27": 13000000,
-        "contract_type": "MLE",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 13900000
-      },
-      {
-        "name": "Drew Eubanks",
-        "salary_2026_27": 5000000,
-        "contract_type": "Veteran",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
+        "salary_2027_28": 21582451
       },
       {
         "name": "Nique Clifford",
-        "salary_2026_27": 4500000,
+        "salary_2026_27": 3263400,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 4700000
+        "salary_2027_28": 3418800,
+        "salary_2028_29": 5979481
       },
       {
         "name": "Maxime Raynaud",
-        "salary_2026_27": 3000000,
-        "contract_type": "Rookie Scale",
+        "salary_2026_27": 2150918,
+        "contract_type": "RK-2ND",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 3200000
+        "salary_2027_28": 2525901
       },
       {
-        "name": "Isaac Jones",
-        "salary_2026_27": 2000000,
-        "contract_type": "Veteran",
+        "name": "Dylan Cardwell",
+        "salary_2026_27": 2150917,
+        "contract_type": "Veteran Minimum",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 2525901,
+        "salary_2028_29": 2735698
       }
     ],
     "dead_cap": [],
@@ -3134,116 +2820,92 @@
     "conference": "West",
     "repeater": false,
     "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
-        "name": "Victor Wembanyama",
-        "salary_2026_27": 16000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 16800000,
-        "salary_2028_29": 17600000
-      },
-      {
         "name": "De'Aaron Fox",
-        "salary_2026_27": 46000000,
-        "contract_type": "Max",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 49000000,
-        "salary_2028_29": 52000000
-      },
-      {
-        "name": "Stephon Castle",
-        "salary_2026_27": 10000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 10500000,
-        "salary_2028_29": 11000000
-      },
-      {
-        "name": "Devin Vassell",
-        "salary_2026_27": 27000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 29000000,
-        "salary_2028_29": 31000000
-      },
-      {
-        "name": "Harrison Barnes",
-        "salary_2026_27": 19000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Jeremy Sochan",
-        "salary_2026_27": 11000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 12000000,
-        "salary_2028_29": 13000000
-      },
-      {
-        "name": "Keldon Johnson",
-        "salary_2026_27": 17500000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Dylan Harper",
-        "salary_2026_27": 12200000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 12800000,
-        "salary_2028_29": 13500000
-      },
-      {
-        "name": "Julian Champagnie",
-        "salary_2026_27": 3000000,
+        "salary_2026_27": 49500000,
         "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 53460000,
+        "salary_2028_29": 57420000
+      },
+      {
+        "name": "Devin Vassell",
+        "salary_2026_27": 27500000,
+        "contract_type": "Rookie Extension",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 25108696,
+        "salary_2028_29": 27500000
+      },
+      {
+        "name": "Keldon Johnson",
+        "salary_2026_27": 18000000,
+        "contract_type": "Rookie Extension",
+        "player_option": false,
+        "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Carter Bryant",
-        "salary_2026_27": 5000000,
+        "name": "Victor Wembanyama",
+        "salary_2026_27": 16868246,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Julian Champagnie",
+        "salary_2026_27": 13888889,
+        "contract_type": "Veteran",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 15000000,
+        "salary_2028_29": 16111111
+      },
+      {
+        "name": "Dylan Harper",
+        "salary_2026_27": 12989040,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 5300000,
-        "salary_2028_29": 5600000
+        "salary_2027_28": 13607760,
+        "salary_2028_29": 17172994
       },
       {
-        "name": "Bismack Biyombo",
-        "salary_2026_27": 3600000,
-        "contract_type": "Veteran Minimum",
+        "name": "Luke Kornet",
+        "salary_2026_27": 10450000,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 9900000,
+        "salary_2028_29": 9350000
       },
       {
-        "name": "Kelly Olynyk",
-        "salary_2026_27": 13500000,
-        "contract_type": "Bird",
+        "name": "Stephon Castle",
+        "salary_2026_27": 10015920,
+        "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 12670139
+      },
+      {
+        "name": "Carter Bryant",
+        "salary_2026_27": 5145360,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 5390640,
+        "salary_2028_29": 7983539
       }
     ],
     "dead_cap": [],
@@ -3254,112 +2916,103 @@
     "team_name": "Toronto Raptors",
     "conference": "East",
     "repeater": false,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
         "name": "Scottie Barnes",
-        "salary_2026_27": 46400000,
-        "contract_type": "Designated Rookie Max",
+        "salary_2026_27": 41754690,
+        "contract_type": "DRK-EXT",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 50100000,
-        "salary_2028_29": 53800000
+        "salary_2027_28": 44847630,
+        "salary_2028_29": 47940570
       },
       {
         "name": "Brandon Ingram",
         "salary_2026_27": 40000000,
-        "contract_type": "Max",
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 43000000
-      },
-      {
-        "name": "RJ Barrett",
-        "salary_2026_27": 28900000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 30900000
+        "salary_2027_28": 41904762
       },
       {
         "name": "Immanuel Quickley",
         "salary_2026_27": 32500000,
-        "contract_type": "Max",
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 34800000,
-        "salary_2028_29": 37000000
+        "salary_2027_28": 32500000,
+        "salary_2028_29": 32500000
+      },
+      {
+        "name": "R.J. Barrett",
+        "salary_2026_27": 29616071,
+        "contract_type": "Rookie Extension",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
       },
       {
         "name": "Jakob Poeltl",
         "salary_2026_27": 19500000,
-        "contract_type": "Bird",
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 20800000
+        "salary_2027_28": 27300000,
+        "salary_2028_29": 29484000
       },
       {
         "name": "Gradey Dick",
-        "salary_2026_27": 6300000,
+        "salary_2026_27": 7131511,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Collin Murray-Boyles",
+        "salary_2026_27": 6649560,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 6600000
+        "salary_2027_28": 6966000,
+        "salary_2028_29": 8874684
       },
       {
         "name": "Ja'Kobe Walter",
-        "salary_2026_27": 4400000,
+        "salary_2026_27": 3811800,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 4600000
+        "salary_2027_28": 5870172
       },
       {
-        "name": "Ochai Agbaji",
-        "salary_2026_27": 12000000,
-        "contract_type": "Bird",
+        "name": "Trayce Jackson-Davis",
+        "salary_2026_27": 2406205,
+        "contract_type": "RK-2ND",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Jamison Battle",
+        "salary_2026_27": 2296271,
+        "contract_type": "Veteran Minimum",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
         "name": "Jamal Shead",
-        "salary_2026_27": 2300000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 2400000
-      },
-      {
-        "name": "Collin Murray-Boyles",
-        "salary_2026_27": 5000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 5300000
-      },
-      {
-        "name": "Jonathan Mogbo",
-        "salary_2026_27": 2200000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 2300000
-      },
-      {
-        "name": "Sandro Mamukelashvili",
-        "salary_2026_27": 2700000,
-        "contract_type": "Veteran",
+        "salary_2026_27": 2296271,
+        "contract_type": "RK-2ND",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
@@ -3373,116 +3026,98 @@
     "team_name": "Utah Jazz",
     "conference": "West",
     "repeater": false,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
+        "name": "Jaren Jackson Jr.",
+        "salary_2026_27": 49000000,
+        "contract_type": "Veteran",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 50500000,
+        "salary_2028_29": 52000000
+      },
+      {
         "name": "Lauri Markkanen",
-        "salary_2026_27": 46000000,
-        "contract_type": "Max",
+        "salary_2026_27": 46113154,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 49500000,
-        "salary_2028_29": 53000000
-      },
-      {
-        "name": "Walker Kessler",
-        "salary_2026_27": 21000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 22500000,
-        "salary_2028_29": 24000000
-      },
-      {
-        "name": "Keyonte George",
-        "salary_2026_27": 8000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 8500000
-      },
-      {
-        "name": "Taylor Hendricks",
-        "salary_2026_27": 6800000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 7200000
-      },
-      {
-        "name": "Brice Sensabaugh",
-        "salary_2026_27": 3000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 3200000
-      },
-      {
-        "name": "Isaiah Collier",
-        "salary_2026_27": 4200000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 4400000
-      },
-      {
-        "name": "Cody Williams",
-        "salary_2026_27": 6000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 6300000
+        "salary_2027_28": 49824681,
+        "salary_2028_29": 53536209
       },
       {
         "name": "Ace Bailey",
-        "salary_2026_27": 9500000,
+        "salary_2026_27": 9523080,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 10000000,
-        "salary_2028_29": 10500000
+        "salary_2027_28": 9976560,
+        "salary_2028_29": 12640302
       },
       {
-        "name": "Walter Clayton Jr.",
-        "salary_2026_27": 4000000,
+        "name": "Keyonte George",
+        "salary_2026_27": 6563925,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 4200000
+        "guaranteed": true
       },
       {
-        "name": "Kyle Filipowski",
-        "salary_2026_27": 3500000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 3700000
-      },
-      {
-        "name": "Svi Mykhailiuk",
-        "salary_2026_27": 3300000,
+        "name": "John Konchar",
+        "salary_2026_27": 6165000,
         "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "Jusuf Nurkic",
-        "salary_2026_27": 18000000,
-        "contract_type": "Bird",
+        "name": "Cody Williams",
+        "salary_2026_27": 6015600,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 7669890
+      },
+      {
+        "name": "Brice Sensabaugh",
+        "salary_2026_27": 4862237,
+        "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
+      },
+      {
+        "name": "Sviatoslav Mykhailiuk",
+        "salary_2026_27": 3850000,
+        "contract_type": "Free Agent",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 4025000
+      },
+      {
+        "name": "Kyle Filipowski",
+        "salary_2026_27": 3000000,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 3000000
+      },
+      {
+        "name": "Isaiah Collier",
+        "salary_2026_27": 2763960,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 4988948
       }
     ],
     "dead_cap": [],
@@ -3493,114 +3128,115 @@
     "team_name": "Washington Wizards",
     "conference": "East",
     "repeater": false,
-    "data_confidence": "approximate",
+    "data_confidence": "verified",
+    "data_source": "spotrac",
     "players": [
       {
-        "name": "Khris Middleton",
-        "salary_2026_27": 33000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "CJ McCollum",
-        "salary_2026_27": 30000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true
-      },
-      {
-        "name": "Kyshawn George",
-        "salary_2026_27": 4000000,
-        "contract_type": "Rookie Scale",
+        "name": "Anthony Davis",
+        "salary_2026_27": 58456566,
+        "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 4200000
-      },
-      {
-        "name": "Bilal Coulibaly",
-        "salary_2026_27": 8000000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 8500000,
-        "salary_2028_29": 9000000
+        "salary_2027_28": 62786682
       },
       {
         "name": "Alex Sarr",
-        "salary_2026_27": 12200000,
+        "salary_2026_27": 12370680,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 12800000,
-        "salary_2028_29": 13500000
+        "salary_2027_28": 15611798
       },
       {
-        "name": "Bub Carrington",
-        "salary_2026_27": 5000000,
+        "name": "Bilal Coulibaly",
+        "salary_2026_27": 9240012,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 5300000
+        "guaranteed": true
       },
       {
         "name": "Tre Johnson",
-        "salary_2026_27": 9500000,
+        "salary_2026_27": 8649600,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 10000000,
-        "salary_2028_29": 10500000
+        "salary_2027_28": 9061680,
+        "salary_2028_29": 11490211
       },
       {
-        "name": "Cam Whitmore",
-        "salary_2026_27": 3500000,
-        "contract_type": "Rookie Scale",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 3700000
-      },
-      {
-        "name": "Corey Kispert",
-        "salary_2026_27": 14000000,
-        "contract_type": "Bird",
-        "player_option": false,
-        "team_option": false,
-        "guaranteed": true,
-        "salary_2027_28": 15000000
-      },
-      {
-        "name": "Marvin Bagley III",
+        "name": "Jaden Hardy",
         "salary_2026_27": 6000000,
         "contract_type": "Veteran",
         "player_option": false,
         "team_option": false,
-        "guaranteed": true
+        "guaranteed": true,
+        "salary_2027_28": 6000000
       },
       {
-        "name": "Justin Champagnie",
-        "salary_2026_27": 3000000,
-        "contract_type": "Veteran",
+        "name": "D'Angelo Russell",
+        "salary_2026_27": 5969250,
+        "contract_type": "Free Agent",
         "player_option": false,
         "team_option": false,
         "guaranteed": true
       },
       {
-        "name": "AJ Johnson",
-        "salary_2026_27": 2500000,
+        "name": "Cam Whitmore",
+        "salary_2026_27": 5458310,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true
+      },
+      {
+        "name": "Bub Carrington",
+        "salary_2026_27": 4900560,
         "contract_type": "Rookie Scale",
         "player_option": false,
         "team_option": false,
         "guaranteed": true,
-        "salary_2027_28": 2600000
+        "salary_2027_28": 7257730
+      },
+      {
+        "name": "Will Riley",
+        "salary_2026_27": 3688320,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 3864000,
+        "salary_2028_29": 6155352
+      },
+      {
+        "name": "Kyshawn George",
+        "salary_2026_27": 3108000,
+        "contract_type": "Rookie Scale",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 5435892
+      },
+      {
+        "name": "Tristan Vukcevic",
+        "salary_2026_27": 3000000,
+        "contract_type": "Veteran Minimum",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 3000000
+      },
+      {
+        "name": "Justin Champagnie",
+        "salary_2026_27": 2667944,
+        "contract_type": "Veteran Minimum",
+        "player_option": false,
+        "team_option": false,
+        "guaranteed": true,
+        "salary_2027_28": 3005085
       }
     ],
     "dead_cap": [],

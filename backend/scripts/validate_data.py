@@ -4,7 +4,7 @@
 Checks:
   - exactly 30 teams
   - no duplicate team_ids
-  - each team has 12-15 players
+  - each team has 5-20 players (signed rosters run thin during the offseason)
   - every player salary value is a positive number
   - conference is "East" or "West"
   - 15 teams per conference (sanity check on league structure)
@@ -55,8 +55,8 @@ def main() -> int:
 
         # ── roster size ──
         players = t.get("players", [])
-        if not (12 <= len(players) <= 15):
-            errors.append(f"{tid}: roster size {len(players)} not in 12-15")
+        if not (5 <= len(players) <= 20):
+            errors.append(f"{tid}: roster size {len(players)} not in 5-20")
 
         # ── salaries positive numbers ──
         for p in players:
