@@ -1,0 +1,58 @@
+name: Daily Validation
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # 08:00 UTC daily
+  workflow_dispatch: {}     # allow manual runs from the Actions tab
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"   # match backend/runtime.txt
+
+      - name: Install backend dependencies
+        run: pip install -r backend/requirements.txt
+
+      - name: Validate seed data
+        # Exits non-zero on bad data -> workflow fails here, nothing downstream runs.
+        run: python backend/scripts/validate_data.py
+
+      - name: Run tax engine tests
+        working-directory: backend
+        run: python -m pytest engine/test_engine.py -v
+
+      - name: Refresh deployed cache
+        # The Render URL is not live until deployment exists; don't fail the run.
+        continue-on-error: true
+        run: curl -fsS -X POST https://nba-salary-cap-api.onrender.com/refresh
+
+      - name: Print league summary
+        working-directory: backend
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from engine.constants import SEASONS
+          from engine.tax_engine import team_financials
+
+          season = "2026-27"
+          teams = json.loads(Path("data/teams_2026_27.json").read_text())
+          fins = [team_financials(t, season) for t in teams]
+
+          total_payroll = sum(f["payroll"] for f in fins)
+          over_second = sum(1 for f in fins if f["apron_status"]["over_second_apron"])
+
+          print("::group::League Summary (2026-27)")
+          print(f"Teams:                {len(fins)}")
+          print(f"Total league payroll: ${total_payroll:,.0f}")
+          print(f"Teams over 2nd apron: {over_second}")
+          print("::endgroup::")
+          PY

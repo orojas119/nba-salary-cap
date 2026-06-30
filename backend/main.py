@@ -111,9 +111,10 @@ def health():
     }
 
 
-@app.get("/refresh")
+@app.api_route("/refresh", methods=["GET", "POST"])
 def refresh():
-    """Clear all cached responses. Called by the daily data-update Action."""
+    """Clear all cached responses. Called by the daily data-update Action
+    (supports both GET and POST)."""
     count = len(_cache)
     _cache.clear()
     return {"status": "cache cleared", "entries_cleared": count}
