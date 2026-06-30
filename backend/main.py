@@ -174,7 +174,17 @@ def get_team(team_id: str, season: str = "2026-27"):
     tid = team_id.upper()
     if tid not in teams:
         raise HTTPException(status_code=404, detail=f"Team {team_id!r} not found for season {season!r}")
-    return team_financials(teams[tid], season)
+    raw = teams[tid]
+    # Financials plus the raw roster/meta the detail page renders (player table).
+    return {
+        **team_financials(raw, season),
+        "conference": raw.get("conference"),
+        "repeater": raw.get("repeater", False),
+        "data_confidence": raw.get("data_confidence"),
+        "players": raw.get("players", []),
+        "dead_cap": raw.get("dead_cap", []),
+        "draft_picks_owed": raw.get("draft_picks_owed", []),
+    }
 
 
 @app.get("/teams/{team_id}/projection")
